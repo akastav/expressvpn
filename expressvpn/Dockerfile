@@ -6,7 +6,7 @@ FROM debian:bullseye-slim
 LABEL maintainer="benjamin@polkaned.net"
 
 ENV ACTIVATION_CODE Code
-ENV LOCATION smart
+ENV SERVER smart
 ENV PREFERRED_PROTOCOL auto
 ENV LIGHTWAY_CIPHER auto
 
